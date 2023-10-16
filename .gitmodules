@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = vchat-backend
+	url = https://github.com/vyngt/vchat-backend
+[submodule "frontend"]
+	path = vchat-frontend
+	url = https://github.com/vyngt/vchat-frontend
